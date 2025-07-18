@@ -1,35 +1,47 @@
-# 👋 Hi, I'm Alfie Vasquez
+# 👋 Hello! I'm Alfie Vasquez
 
-I'm a passionate developer working on cool web projects and systems that help communities. I love building real-world apps using PHP, MySQL, and modern frontend tools.
+🎯 A passionate **Web Developer** who enjoys building real-world applications that make everyday tasks easier, more efficient, and user-friendly.
 
----
-
-## 🚀 Projects
-
-- 🌐 [Alfie - My Web App Project](https://github.com/AV1704/Alfie)
+I love transforming **ideas into working solutions** using modern web technologies, and I’m always eager to learn and improve.
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 What I Do
+
+- 💻 Build full-featured web applications with clean design and practical functionality
+- 🧠 Solve problems through thoughtful code and structured systems
+- ⚙️ Explore web-based tools, offline apps, and database-driven platforms
+
+---
+
+## 🛠️ Technologies I Work With
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Goals
 
-![AV1704's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AV1704&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AV1704&layout=compact&theme=radical)
+- ✅ Improve my skills in web development and system design
+- 🔍 Keep learning new technologies and best practices
+- 🌐 Create useful tools that make an impact
+- 🚀 Build a strong, versatile portfolio
 
 ---
 
 ## 📫 Contact Me
 
-📧 vasquezalfie919@gmail.com
+Let's connect or collaborate on something awesome:
+
+📧 **vasquezalfie919@gmail.com**
+
+---
+
+> _“Code is not just code — it's a tool to create something meaningful.”_
